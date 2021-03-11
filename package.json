@@ -1,0 +1,17 @@
+{
+  "name": "@onerbs/hashy",
+  "version": "1.0.0",
+  "description": "Collection of hash algorithms",
+  "author": "Alejandro Elí",
+  "license": "MIT",
+  "main": "index.ts",
+  "types": "index.d.ts",
+  "homepage": "https://github.com/onerbs/hashy",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onerbs/hashy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onerbs/hashy/issues"
+  }
+}
